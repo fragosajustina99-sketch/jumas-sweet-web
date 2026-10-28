@@ -1,0 +1,24 @@
+JUMA'S SWEET — PÁGINA WEB PERSONALIZADA
+
+Archivo principal dentro del ZIP: index.html
+WhatsApp: configurado con el número informado (formato internacional de Argentina).
+Instagram: @jumas.sweet
+Entrega: retiro y envío a coordinar.
+Fotos: las fotos actuales son ilustrativas; reemplazalas por fotos reales de Juma's Sweet antes de considerar el catálogo terminado.
+
+CÓMO PROBAR
+1. Extraé el ZIP en tu computadora.
+2. Abrí index.html con Chrome para ver la web.
+3. Probá los botones de WhatsApp y el enlace a Instagram.
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Entrá a https://github.com/ y creá una cuenta o iniciá sesión.
+2. Creá un repositorio nuevo, por ejemplo: jumas-sweet-web.
+3. Subí el archivo index.html.
+4. En el repositorio, abrí Settings → Pages.
+5. En Build and deployment, elegí Deploy from a branch; seleccioná la rama main y la carpeta /(root), y guardá.
+6. Esperá a que GitHub Pages publique el sitio. La URL será parecida a https://TU-USUARIO.github.io/jumas-sweet-web/ (reemplazá TU-USUARIO por tu usuario real).
+La página todavía no está publicada; el enlace final se genera desde tu cuenta.
+
+FOTOS REALES
+Reemplazá las URLs de imágenes ilustrativas por fotos reales. Si las subís al repositorio dentro de una carpeta llamada images, usá rutas como images/torta-chocolate.jpg.
